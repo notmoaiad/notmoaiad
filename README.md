@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **<a href="https://mtg.moaiad.com" target="_blank">MTG Bot</a>**.
-- 🌱 I’m currently learning **Figma**.
+- 🔭 I’m currently working on **MTG Bot**.
 - 💬 Ask me about **discord.py**.
 - 📫 How to reach me: moaiadfayezb@gmail.com.
 
