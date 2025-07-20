@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **MTG Bot**.
+- 🔭 I’m currently working on **BasedChad.win**.
 - 💬 Ask me about **discord.py**.
 - 📫 How to reach me: moaiadfayezb@gmail.com.
 
-consider supporting me by buying me a coffee: https://ko-fi.com/moaiad
+consider supporting me by buying me a coffee: ~~https://ko-fi.com/moaiad~~ *deprecated*
 
 **Languages and Tools:**  
 
